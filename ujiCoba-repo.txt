@@ -1,0 +1,6 @@
+-----Uji Coba Dalam Menggunakan GitHub sebagai control version bagi programer-----
+
+1. Mempelajari dasar Git
+  *Dimulai dengan istilah istilah dalam Git,Perintah,Membiasakan mnggunakan commit diakhir
+  *Mempelajari istilah seperti Bash,marge,pork,commit,Branch, Dll.
+  *uji coba dengan menggunakan GitHub 
