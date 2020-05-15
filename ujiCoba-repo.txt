@@ -10,4 +10,5 @@
   *Membuat program sederhana dengan menggunakan HTML
   
   
-  ----Uji coba dengan menggabungkan 2 branch apakah akan langsung atau 3ways------
+  Lakukan
+                                  --marge branch--
