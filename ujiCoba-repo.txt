@@ -4,3 +4,7 @@
   *Dimulai dengan istilah istilah dalam Git,Perintah,Membiasakan mnggunakan commit diakhir
   *Mempelajari istilah seperti Bash,marge,pork,commit,Branch, Dll.
   *uji coba dengan menggunakan GitHub 
+
+
+2. Setelah mempelajari dasasr dasar dari GitHub,maka sekarang kita coba mengiplementasikan dengan menggunakan source code
+  *Membuat program sederhana dengan menggunakan HTML
